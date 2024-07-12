@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishan-malinda" alt="krishan-malinda" /></a> </p>
 <img align="right" alt="Coding" width="300" src="coder.gif">
+
 - 🌱 I’m currently learning **React JS, Laravel**
 
 - 💬 Ask me about **React JS, Laravel, ML**
