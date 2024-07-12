@@ -4,9 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishan-malinda" alt="krishan-malinda" /></a> </p>
 <img align="right" alt="Coding" width="300" src="coder.gif">
 
-- 🌱 I’m currently learning **React JS, Laravel**
-
-- 💬 Ask me about **React JS, Laravel, ML**
+- 🌱 I’m currently learning **React JS, Redux, Node JS**
 
 - 📫 How to reach me **krishanmalinda99@gmail.com**
 
@@ -21,7 +19,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="40" height="40"></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="tailwindcss.svg" alt="tailwindcss" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
