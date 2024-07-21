@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishan-malinda" alt="krishan-malinda" /></a> </p>
 <img align="right" alt="Coding" width="280" src="coder.gif">
 
-- 🌱 I’m currently learning **React JS, Redux, Node JS**
+- 🌱 I’m currently learning **React JS, Node JS**
 
 - 📫 How to reach me **krishanmalinda99@gmail.com**
 
